@@ -1,8 +1,8 @@
 ﻿<Solution>
   <Project Path="Assembly-CSharp-firstpass.csproj" />
   <Project Path="AstarPathfindingProject.csproj" />
-  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="AstarPathfindingProjectEditor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="AllIn13DShaderAssemebly.Editor.csproj" />
   <Project Path="AllIn13DShaderDemoScriptsAssembly.csproj" />
   <Project Path="Drawing.csproj" />
