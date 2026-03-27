@@ -1,0 +1,3 @@
+[submodule "Assets/characterBox"]
+	path = Assets/characterBox
+	url = git@github.com:qlee3/characterBox.git
